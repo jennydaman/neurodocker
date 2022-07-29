@@ -47,3 +47,6 @@ python -m pip install --no-cache-dir --editable .[all]
 ```
 
 Before committing changes, initialize `pre-commit` with `pre-commit install`. This will format code with each commit to keep the style consistent. _Neurodocker_ uses `black` for formatting.
+
+
+DUMMY CHANGE TO TRIGGER CI
